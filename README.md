@@ -47,9 +47,3 @@ Gráfico comparativo do tempo gasto por lote de romaneio[cite: 1]:
 * **Ganho de tempo:** O processo que demoravade 1 a 2 horas passou a ser feito em apenas 20 minutos.
 * **Confiabilidade:** Eliminação de erros de digitação e travas no prompt para impedir que a inteligência artificial invente dados ou impostos zerados. 
 * **Atendimento Customizado:** Permitiu realizar a separação e organização exigida pelos clientes VIP de forma automatizada, gerando eficiência direta para a operação.
-
----
-
-### Documentação do Projeto
-
-* [Visualizar Engenharia de Prompt e Regras de Negócio](https://github.com/MarcosVGomes1/automacao-romaneio-ia/blob/main/docs/prompt_estruturado.md)
