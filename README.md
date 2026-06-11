@@ -52,4 +52,4 @@ Gráfico comparativo do tempo gasto por lote de romaneio[cite: 1]:
 
 ### Documentação do Projeto
 
-* [Visualizar Engenharia de Prompt e Regras de Negócio](./docs/prompt_estruturado.md)
+* [Visualizar Engenharia de Prompt e Regras de Negócio](https://github.com/MarcosVGomes1/automacao-romaneio-ia/blob/main/docs/prompt_estruturado.md)
